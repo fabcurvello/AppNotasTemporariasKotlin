@@ -73,5 +73,8 @@ class MainActivity : AppCompatActivity() {
             tvNotaSaida.text = "Nenhuma nota encontrada."
         }
     }
-
 }
+
+
+
+
